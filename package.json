@@ -1,6 +1,6 @@
 {
   "name": "mxstbr",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Charlie Gleason (@superhighfives)'s business card",
   "bin": {
     "superhighfives": "./bin/card.js"
