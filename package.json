@@ -1,6 +1,6 @@
 {
   "name": "superhighfives",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Charlie Gleason (@superhighfives)'s business card",
   "bin": {
     "superhighfives": "./bin/card.js"
