@@ -1,20 +1,19 @@
 {
   "name": "mxstbr",
   "version": "1.0.2",
-  "description": "Max Stoiber (@mxstbr)'s business card",
-  "main": "index.js",
+  "description": "Charlie Gleason (@superhighfives)'s business card",
   "bin": {
-    "mxstbr": "./bin/card.js"
+    "superhighfives": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mxstbr/businesscard.git"
+    "url": "https://github.com/superhighfives/businesscard.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "keywords": [],
-  "author": "Max Stoiber",
+  "author": "Charlie Gleason",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",
