@@ -21,8 +21,6 @@ const colors = ['red',
 
 const color = colors[Math.floor(Math.random() * colors.length)]
 
-console.log(color)
-
 // Text + chalk definitions
 const data = {
   name: chalk.white('Charlie Gleason /'),
