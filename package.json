@@ -1,6 +1,6 @@
 {
   "name": "mxstbr",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Max Stoiber (@mxstbr)'s business card",
   "main": "index.js",
   "bin": {
